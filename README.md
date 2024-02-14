@@ -34,3 +34,13 @@ URL shortening is a technique in which a long URL is given a short alias to redi
    ```bash
     cd url-shortener
     npm install
+
+3.**Start the server:**
+
+  ```bash
+    Copy code
+    npm start
+    Open your web browser and navigate to http://localhost:3000.
+
+Enter a long URL into the input field and click "Shrink" to generate a short URL.
+Copy the generated short URL and use it to redirect to the original long URL.
