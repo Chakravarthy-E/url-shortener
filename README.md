@@ -28,3 +28,9 @@ URL shortening is a technique in which a long URL is given a short alias to redi
 
    ```bash
     git clone https://github.com/Chakravarthy-E/url-shortener.git
+
+## Usage
+
+   ```bash
+    cd url-shortener
+    npm install
